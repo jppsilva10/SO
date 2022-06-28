@@ -1,0 +1,7 @@
+19:11:03 program started
+19:11:03 program started
+19:11:03 program started
+19:11:03 program started
+19:11:03 WRONG COMMAND => DEPARTURE TP45 init: 225 takeoff: 9
+19:11:04 WRONG COMMAND => DEPARTURE TP279 init: 592 takeoff: 39
+19:11:05 program concluded
